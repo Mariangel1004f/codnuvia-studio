@@ -1,1 +1,1 @@
-window.CODNUVIA_CONFIG = { whatsapp: "", businessName: "CODNUVIA Studio" };
+window.CODNUVIA_CONFIG = { whatsapp: "573022565677", businessName: "CODNUVIA Studio" };
